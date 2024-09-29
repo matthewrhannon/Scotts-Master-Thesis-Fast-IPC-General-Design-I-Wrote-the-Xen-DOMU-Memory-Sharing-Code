@@ -1,0 +1,2 @@
+# Scotts-Master-Thesis-Fast-IPC-General-Design-I-Wrote-the-Xen-DOMU-Memory-Sharing-Code
+"In the best tests Fip-see provides 583k more IOPs a 3.38x throughput increase over the original driver and a reduction in latency of 28.57 microseconds." - The research centered on accelerating IPC message passing w/ an emphasis on NUMA architecture; Intel CPU extensions mwait/monitor; and low-level CPU cache line memory management enhancements 
